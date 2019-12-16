@@ -27,6 +27,6 @@ public class MainActivity extends AppCompatActivity
                 startActivity(myIntent);
 
             }
-        });//end of click listener
+        });//ed of click listener
     }
 }
